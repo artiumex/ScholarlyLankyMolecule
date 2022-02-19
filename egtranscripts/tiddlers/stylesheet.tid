@@ -1,0 +1,9 @@
+created: 20220218011937014
+modified: 20220218014135690
+tags: $:/tags/Stylesheet References
+title: stylesheet
+type: text/vnd.tiddlywiki
+
+.hl1 { background-color:#ffff66; }
+.hl2 { background-color:#ffc1cc; }
+.hl3 { background-color:#76ff7a; }

@@ -1,0 +1,10 @@
+created: 20220219051326762
+modified: 20220219051349072
+tags: References
+title: topictemplateV
+type: text/vnd.tiddlywiki
+
+{{justSearch}}
+<$set name=tagName value={{!!title}}>
+<<tabs "[tag[$(tagName)$]]" "NODEFAULTSALLOWED" "$:/state/tab2" "tc-vertical">>
+</$set>

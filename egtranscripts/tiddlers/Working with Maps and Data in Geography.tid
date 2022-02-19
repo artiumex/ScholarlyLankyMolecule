@@ -1,0 +1,154 @@
+created: 20220203200520241
+modified: 20220204194314182
+tags: [[Introduction to Geography]] Transcript
+title: Working with Maps and Data in Geography
+type: text/vnd.tiddlywiki
+
+! Section 1
+00:00:01
+TEACHER: Hi, my name is Kirsten and I'm your instructor today. Well think about all the kinds of maps that you encounter on a daily basis. In a classroom you might see a globe, or a big world map. If you go online, there are all kinds of mapping websites that show you everything from street maps to even satellite photos of different locations around the Earth.
+00:00:21
+Perhaps someone in your family owns a car with a navigation system, you can even find navigation systems in phones today. Or perhaps you take public transportation, so you need a subway or a bus map. And even when you visit the mall, sometimes you look at the mall directory to find the location of a particular store or restaurant you're looking for.
+00:00:39
+No matter what, maps are an important part of everyday life. And there are all kinds of different maps out there. We're going to be looking at that in this lesson. This lesson is Working with Maps and Data in Geography. Our objectives, to differentiate among the most commonly used map projections. To identify different types of maps, including climate,
+00:00:57
+physical, and political, and identify their purposes. And to use coordinates of latitude and longitude to determine location. In this section we'll be looking at our first objective, and as we go along some of our words and terms will be highlighted in purple. Pay close attention because these are part of your
+00:01:11
+vocabulary for this lesson. So, what is a map projection? Well the best depiction of the Earth that we have is one of these. This is a globe, obviously, and of course the Earth is round. So the best way to show the Earth is on a globe, which is also round or spherical.
+00:01:29
+The problem is, is that it's very difficult to carry this globe around everywhere. It's much more handy to have a flat surface to work off. So maps are usually flat. But we can see the problem, if we tried to put this flat piece of paper on this globe, it just doesn't work. We can see it won't fit exactly to the contours of the globe.
+00:01:49
+And that's the problem that geographers run into. How do we put a round surface, like the Earth, on a flat piece of paper? Well geographers and cartographers who make maps have come up with various ways to do that. And these are called map projections, putting a 3D surface on a 2D map. But of course we know that they can't be perfect, because
+00:02:10
+you can't possibly put something round on a flat piece of paper like this. And the larger the area that we're looking at on the Earth's surface, the more distortion we're going to have. So geographers have come up with different ways to minimize distortion as much as possible. And distortion can be found in shape, the actual outline of a particular continent for example.
+00:02:32
+Distance, how far two locations appear to be from each other on a map. Area and equivalence, how big two continents appear in relation to each other. And then finally direction, does something lie North or South from each other in actuality, compared to how it appears to lie on a map. So in this lesson we're going to look at the various ways
+00:02:53
+that cartographers and geographers have tried to accommodate all of these different distortions that are capable whenever we're trying to make a map. So let's look first at the Mercator projection. This is one of the oldest projections, it was created in 1569 by Mercator in order to aid navigators. Now there's one big advantage, and that's lines of latitude and longitude intersect at right angles on this map, so
+00:03:18
+it makes it easy to plot navigation on a ship over a long distance. However the distortion is a huge problem, especially near the poles. So take a look here, we see Greenland appears to be much larger than South America. But South America, in fact, is eight times as big as Greenland.
+00:03:37
+Also we take a look and we can see anything close to the equator, like Africa for example, appears much smaller in relation to the other continents. We know that Africa is significantly larger than both North and South America. The further we get from the equator to the poles, the bigger the distortion gets. Look at Antarctica down here, it appears to be enormous.
+00:03:59
+So this projection does have some issues. But again this is one of the very first types of maps that we see. So next let's take a look at the next one. This is the Mollweide projection, it was created in 1805 by Karl Mollweide. It has an accurate depiction of area. So one of the problems it's fixed was the Africa problem.
+00:04:19
+Africa appears pretty much correct in relation to size, compared to South America. One of the issues that we see here is in shape, we can see that especially near the poles shape gets distorted. We can kinda see it here in this coast of South America. So shape will not be particularly accurate, especially the further away we get from the intersection between the equator and the prime meridian.
+00:04:48
+Now this one has an elliptical shape. An ellipse, remember, is a flattened oval. And we can see the shape of this one here. Next we have a Goode projection. This was created in 1923 by John Paul Goode, and it's based on the Mollweide projection we saw on the previous map. But again, it's trying to compensate for the distortion
+00:05:10
+that we saw near the poles. So this one has equal area, again Africa appears larger, for example, than North America as it should. So everything is shown in proportionate size. It's also fixed the issue with regard to shape, we can see that South America now appears as it should. Of course you probably know what the big problem with this particular map is, and that's it's not flat.
+00:05:35
+It's got this weird shape, you can see here that parts of the ocean have been cut in order to make everything else appear correct. It's an interrupted map, so visually it's not as appealing. It can be difficult to gauge a distance between two locations as a result of this. Next let's take a look at the Gall-Peters projection.
+00:05:58
+Now this one was created in 1973 by Arno Peters, based on the work of James Gall. Now this one's very interesting, this is really done for social reasons. Because remember on that Mercator projection how small Africa appeared? Well look at Africa here. It appears much larger.
+00:06:15
+So in actuality, these particular projections really emphasize areas around the equator because these tend to be the poorest areas on Earth. Distance is distorted on this map, but again area and size are corrected. Africa appears larger as it should, but again this is a map really created for more social reasons than for use with regard to determining distance and such.
+00:06:41
+Now this is the Robinson projection, and the Robinson projection was created in 1963 by Arthur Robinson. It also has that elliptical shape that we've seen before. And the purpose of this was to limit distortion everywhere, to make some compromises everywhere, to get the most pleasing look. So again distortion is limited near the equator, it
+00:07:05
+compromises distortion making everything slightly distorted rather than just making area distorted, or just size distorted. It tries to compromise amongst all the different types of distortion, in order to be useful for people. So let's take another look at these projections. Again here's the Mercator. And again remember, size near the poles is the big issue.
+00:07:27
+Look how big Greenland and Antarctica appear compared to Africa. And again Africa appears to be smaller than North America, and of course Africa is larger than North America. Next we have the Mollweide projection, again Africa now appears the correct size. But now we can see this coastline is a bit distorted, anything over along the edges or around the poles is
+00:07:51
+distorted with regard to shape. Next we have the Goode projection. And this particular, again remember, it's the interrupted one. But again size appears correct, and shape appears correct. So those issues are fixed, but again distance is difficult to gauge on this particular map.
+00:08:12
+Then we have the Gall-Peters. Again remember this one emphasizes areas near the equator, so Africa appears larger. In many ways this is done for social reasons, to bring attention to these parts of the world. Often the poorest people in the world live in these areas. And then finally the Robinson projection. Again it compromises everything.
+00:08:31
+So Africa appears to be larger, the shape is kind of correct, everything is almost there. And again it's a compromise projection, really designed to be visually appealing and to limit distortion in all areas instead of limiting distortion in just one area. So in review, different map projections offer varying perspectives. And again, it can't be perfect.
+00:08:54
+There's no perfect map. Even on small areas, it cannot possibly be 100% perfect, because there's always going to be distortion when we're looking at the Earth's surface. But one of the things we see whenever we're looking at a world map, is that distortion is spread because we're trying to deal with such a large area. So each projection that we looked at compromises in some
+00:09:14
+way either on distance, size, or area. Popular projections that we looked at included the Mercator projection, the Mollweide projection, the Goode projection, and the Robinson projection. As well as the Gall-Peters projection, again that map projection was created for social reasons. So we're going to take a little break. When we get back we're going to look at the various kinds
+00:09:35
+of maps that we see, and the purpose for all of these different kinds of maps. So hang on, I'll see you in just a minute.
+
+! Section 2
+00:00:01
+TEACHER: Hi, my name is Kirstin and I'll be your instructor today. This lesson is Working with Maps and Data in Geography. Our objectives for this lesson are listed here, and in this section we'll be looking at the second objective, to identify different types of maps, including climate, physical, and political, and identify their purposes. Well, there are all types of maps that are created for
+00:00:24
+geographers to use. And the type of map you will use depends on the kind of data that you're looking at or the type of research you're conducting. There are political maps, physical maps, topographic maps, climate maps, and special purpose maps. We're going to take a closer look at these maps in this section.
+00:00:46
+The first are political maps, and political maps share some common characteristics. First, political divisions are usually shown in different colors that bear no resemblance to land form, or climate, or anything else. So you can see this phenomenon in this particular map, which is a political map of the provinces of Canada. Political maps are created in order to show political
+00:01:09
+divisions, such as national, state, or local boundaries. They also may show capital and major cities. The capital cities of each of the provinces is shown on this map. And you can take a look, there's also a scale. Typically, a scale is included to show you distances. Now the next type of map is a physical map, and instead of trying to show physical boundaries and emphasizing
+00:01:34
+those, instead physical maps emphasize the actual physical features. They show physical features such as mountains, rivers, lakes, and oceans. And they are typically colored in a way to show elevation. Elevation is how high land is above or below sea level. Now if you'll take a look at this particular map, the lowest-lying land, that closest to sea level, or even
+00:02:01
+below sea level, is indicated in this very, very dark green color. Slightly higher elevation is indicated in either green or yellow. And then mountainous regions, the highest elevations, are indicated here on this map in brown. All water is typically colored in blue. Now the next kind of map is a topographic map, and
+00:02:28
+topographic maps are used to show contour lines in order to show elevation and elevation lines. And if you see this map over here on the right, we're going to take a look at some of these contour lines. Now don't get confused because this is a national park map of Yosemite National Park. And of course, there are a lot of hiking trails. So the hiking trails are indicated here,
+00:02:50
+these dotted lines. So they don't really have anything to do with elevation. Although in this case, chances are you'd want a hiking trail to stay at about the same elevation. Instead the elevation lines are shown here in brown. So if I wanted to stay at the same elevation, I could just follow this land as I walked, and my elevation would remain constant.
+00:03:11
+Now another thing that we can see is that lines that are closer together indicate a steep slope. So, for example, these lines here are pretty close together. So we know if we were to walk this direction, we'd be walking uphill at a steeper rate, as opposed to this direction where it would be a more gradual slope. Lines with the widest distance apart show flat areas.
+00:03:35
+So, for example, this is a particularly flat area here, to wherever this is over here. Or from this area to over here, this distance, would probably be the flattest area on this particular map. Now we're going to take a look at a close-up of this particular map. Again, this line here is that trail that I was telling you about.
+00:03:57
+So that doesn't really indicate elevation. But if we take a look we can see, do you see there's a number here? The map is a bit out of focus because we've gone in and zoomed in on it. But this map here, again, this same line, no matter how long you follow it, is going to be the same elevation. And then this is the next major elevation.
+00:04:18
+So it might be in 100 feet or it might be in 20 feet, depending on the map. And we can see these lines here that are very close together indicate that we are going up at a more rapid rate. Now, also in this map we can see that sometimes we have these little points, like this. This indicates a flat area within, perhaps a valley. Now the next type of map we're going to take a look at is a
+00:04:50
+climate map. And climate maps are created in order to show broad climate zones using color. Now colors change from climate map to climate map, but there are some typical trends that we see. Shades of red or orange typically indicate hotter or drier areas. Shades of green typically indicate wetter areas.
+00:05:12
+And shades of brown also indicate drier areas. So on this particular map of Africa, we can see the Sahara Desert across North Africa is in red because again, this is a very hot, dry area. The next type of maps are special purpose maps, and these can be created to show a wide variety of types of information. For example, special purpose maps may show disease
+00:05:38
+outbreaks, population size, land use and resources. Now this is going to be a land use and resource map. Here is North Africa. And if we take a look, we can see all kinds of indications of various types of resources. In this case, we're looking at energy resources. And there will always be some kind of key to help you interpret the map.
+00:06:00
+We can see the little oil derricks indicate oil. We have coal resources, natural gas resources, uranium, which is used in nuclear power, hydroelectric power, which could indicate a dam that's creating electricity or other minerals. So whenever we want to show this type of information, you really can do it in two ways. I could write a couple of paragraphs describing where
+00:06:24
+each of these resources are located in North Africa, or I could plot them on a map like this, which can be very visually appealing, but it can also help you make very quick types of conclusions as opposed to reading a long paragraph. So in review, we looked at many different types of maps that geographers use in order to interpret all kinds of information.
+00:06:48
+Geographers rely on these different types of maps depending on what they are researching and what they are investigating. There are many different types of maps that geographers use, including physical, political, topographic, or climate maps. Thank you.
+
+! Section 3
+00:00:00
+TEACHER: Hi, welcome back. This lesson is Working with Maps and Data in Geography. Our objectives for this lesson are here and in this section we'll be looking at our third objective, to use coordinates of latitude and longitude to determine location. Well, this section we're going to be talking about latitude and longitude. And you've likely heard these terms before.
+00:00:22
+Latitude and longitude are simply ways of locating particular points on the Earth's surface on a map. Now the Earth is organized into a grid and cartographers and geographers came up with a way to use that grid system to locate specific locations. Now there are two main reference points. The Equator and the Prime Meridian. And from these points you find lines of
+00:00:47
+latitude and longitude. And you can then develop a coordinate system. Now you may think that latitude and longitude is old-fashioned, it's not something we need anymore. But you would be wrong. Any type of GPS system that you use, be it a mapping system on the internet or a handheld GPS device or even the navigation system of your car, uses that system of latitude
+00:01:12
+and longitude to determine your exact location. So let's take a look at latitude and longitude and how we find those points. And our first reference points that we're going to be discussing is the Equator. It's the line here, 0 degrees latitude. And this is the point from which all lines of latitude are measure.
+00:01:31
+Now the Equator divides the Earth into the northern and southern hemispheres. Now lines of latitude are those imaginary parallel lines that run east and west and they're used to measure distance north and south of the Equator. Now there's a couple things that we need to remember about lines of latitude. First, they are parallel.
+00:01:49
+That means that they never are going to run into each other. The second interesting thing is that lines of latitude are equal distant apart. So two lines of latitude, two degrees, if we go from 0 to 1 degree, this distance is always going to be 69 miles. So lines of latitude can also help you determine distance away from the Equator. Now the next thing that we need to know is that lines run
+00:02:17
+from 0 to 90 degrees. 90 degrees at at the pole, but there are an infinite number of lines of latitude because each degree can be divided up into decimal points, as many as you need. So let's take a look at our lines of latitude. You can see them here. And next let's take a look at longitude. Now longitude is measured from the Prime Meridian.
+00:02:42
+The Prime Meridian is this line here. This is 0 degrees longitude. And it's the point from which all lines of longitude are measured. Now the lines of longitude are the imaginary lines that run north and south, and they're used to measure distance east and west of the Prime Meridian. So east are these lines over here and west are
+00:03:02
+these lines over here. So anything measured this way, will have the number say 37 degrees east while the equal distance this way would have something that said 37 degrees west. In most cases. Now the next thing that you need to know about lines of longitude is that they are not parallel. You can see that they are going to meet at the poles up here, so they are furthest distance away,
+00:03:27
+at this point much further away than they are here. And as a result, you cannot measure distance from the Prime Meridian simply by using your line of longitude. OK, next let's take a look at the coordinates. Now whenever you're determining a particular location, you're going to use a coordinate. The coordinates are the points of intersection as far as the distance from the Equator and the distance
+00:03:54
+from the Prime Meridian. They measure that distance in degrees. Now latitude is listed first, and then longitude. So let's take a look at some of the ways we will see coordinates. Well, the most common way that you're typically going to see today is in decimal degrees. You can see here we have 38.898648 north latitude and
+00:04:16
+77.037692 west longitude. The other common way that you will see it is in degrees, minutes, or seconds. So 38 degrees, 53 minutes, 55 seconds. And basically every degree of longitude, one degree of longitude has 60 minutes. And each minute has 60 seconds. So that's how it's divided.
+00:04:43
+And you can see also there's point of seconds here as well. And then finally, the other thing that you're going to see, especially if you're ever programming a GPS device or something like that, is negative degrees. And this is going to work the same way that we do this in math. You have a coordinate system and you know everything this way is negative if you're talking about the y-axis.
+00:05:08
+And everything this way is also negative. So if you're looking at two points for latitude and longitude, if it's two negative degrees you know it's going to be in this quadrant. And, again, this is the Prime Meridian here. This is the Equator here. So let's take a look at this example that we have. So negative 34 degrees, negative 58 degrees.
+00:05:34
+Both of those are negative. That's the same thing as 34 degrees south, 58 degrees west. And this is going to be somewhere in the neighborhood of South America because it's south of the Equator and it's also west of the Prime Meridian. OK. So let's take a look at how we plot latitude and longitude. And the number that we've been looking at in our previous
+00:05:59
+example is 39 degrees north, 77 degrees west. OK, so this is 30 degrees latitude here. This is 60 degrees. So we know we're at 39 degrees north. So we're somewhere in between here. And this isn't going to be exact, but we know it's going to be somewhere in this range here. Now our second line is our line of longitude.
+00:06:22
+And we see it's 77 degrees west. So we know it's west of the Prime Meridian. And again we have 30, we have 60, we have 90. So here 60. Here's 90. So we know it's somewhere in between, I happen to know that this is Washington, DC, so I know it's going to go right about here.
+00:06:41
+So this is our location here where there's two lines intersect. And whenever you're going to be doing this on a map you're going to have much better reference points than we have here, but that'll give you a general idea about how to do that. OK, finally we're going to talk about one more line. This line in the International Date Line.
+00:07:00
+And you can it's shaped rather oddly. It's not a straight line but it roughly follows 180 degrees longitude. And this is really a time zone. It's not a reference point with regard to location. It's a reference line with regard to time zone. So the same way that the Eastern Time Zone, the Central Time Zones, those lines in the United
+00:07:22
+States are not straight. And the same is true here. Because again we want to compensate for areas of location because we wouldn't this line to go right through part of Russia. It's much better if everyone is in the same time zone here. The same thing with these island chains and so forth. Now the International Date Line is
+00:07:39
+where the new day begins. So as soon as we hit midnight at this point here we know we're starting a new day. So these people will experience, let's say, Monday first. And these people, such as people in Hawaii, will be the last people on Earth to experience a Monday. So in review we talked about coordinates of latitude and longitude.
+00:08:02
+They're used to calculate your exact location or your absolute location on the surface of the Earth. Now latitude lines are imaginary lines that measure distance north and south of the Equator. And again the Equator is 0 degrees latitude. And then we have lines of longitude. Those are imaginary lines used to measure distance east and west of the Prime Meridian.
+00:08:23
+And we know the Prime Meridian is 0 degrees longitude. So in review we've been talking about maps. And when we use maps and all the different types of maps that are out there, so I'd like you to think about the types of maps that you encounter most often in your daily use. Which maps do you find to be the most useful? And I'd also like you to project maybe the future.
+00:08:46
+What does your future hold for you? What career would you like to have? And I want to think how you might have to use maps in your future career. If you want to be a doctor, maybe you'd have to look at maps of big medical centers to find your way around. If you're interested in being a professional basketball player, well, maybe you would need maps to determine the
+00:09:03
+locations where you're going to play those different games that you play. So think about those types of things and I'll see you next time. Bye.
+
