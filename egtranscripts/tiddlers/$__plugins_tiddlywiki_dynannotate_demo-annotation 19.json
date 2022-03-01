@@ -1,0 +1,13 @@
+[
+    {
+        "created": "20220224020129785",
+        "modified": "20220224020131439",
+        "title": "$:/plugins/tiddlywiki/dynannotate/demo-annotation 19",
+        "type": "text/vnd.tiddlywiki",
+        "annotate-tiddler": "Movement: Migration",
+        "annotate-text": "From 2000 to 2008, Arizona's population grew by 26.7%.",
+        "annotate-prefix": "se of the number of houses that were being built. ",
+        "annotate-suffix": " So as a result, people moved to these locations. ",
+        "annotate-colour": "Yellow"
+    }
+]

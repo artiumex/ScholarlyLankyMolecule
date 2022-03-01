@@ -1,0 +1,13 @@
+[
+    {
+        "created": "20220224024703894",
+        "modified": "20220224024705276",
+        "title": "$:/plugins/tiddlywiki/dynannotate/demo-annotation 37",
+        "type": "text/vnd.tiddlywiki",
+        "annotate-tiddler": "Immigration: Refugees and Asylees",
+        "annotate-text": "asylees are located in the United States at the time of their request. So they've come over and they don't want to go home",
+        "annotate-prefix": "United States at the time of their request, while ",
+        "annotate-suffix": ". So refugees to the United States in recent years",
+        "annotate-colour": "RoyalBlue"
+    }
+]

@@ -1,0 +1,13 @@
+[
+    {
+        "created": "20220224020024435",
+        "modified": "20220224020028142",
+        "title": "$:/plugins/tiddlywiki/dynannotate/demo-annotation 18",
+        "type": "text/vnd.tiddlywiki",
+        "annotate-tiddler": "Movement: Migration",
+        "annotate-text": " The cost of living in the Northeast is much higher than in the rest of the country",
+        "annotate-prefix": " the areas of the United States that are affected?",
+        "annotate-suffix": ". And one way we can tell what the cost of living ",
+        "annotate-colour": "Yellow"
+    }
+]

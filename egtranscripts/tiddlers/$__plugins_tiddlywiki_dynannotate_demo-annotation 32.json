@@ -1,0 +1,13 @@
+[
+    {
+        "created": "20220224024241660",
+        "modified": "20220224024242941",
+        "title": "$:/plugins/tiddlywiki/dynannotate/demo-annotation 32",
+        "type": "text/vnd.tiddlywiki",
+        "annotate-tiddler": "Immigration: Refugees and Asylees",
+        "annotate-text": "Some came from Oceania, a very small percentage, 1%.\n    00:04:45 1% came from unknown regions. 11% came from Europe, 13% from North America, 14% from South America, 20% from Africa, and the biggest chunk from Asia. 41% of those asylees came from Asia.",
+        "annotate-prefix": "n 2007. Where did most of these people come from? ",
+        "annotate-suffix": " So basically remember, an asylee is someone who a",
+        "annotate-colour": "RoyalBlue"
+    }
+]

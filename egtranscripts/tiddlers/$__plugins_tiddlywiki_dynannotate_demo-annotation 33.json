@@ -1,0 +1,13 @@
+[
+    {
+        "created": "20220224024306208",
+        "modified": "20220224024308975",
+        "title": "$:/plugins/tiddlywiki/dynannotate/demo-annotation 33",
+        "type": "text/vnd.tiddlywiki",
+        "annotate-tiddler": "Immigration: Refugees and Asylees",
+        "annotate-text": "There were 48,217 refugees admitted in 2007. 36% came from Africa, 48% came from Asia, 10% from Europe, 6% from North America, and 1% from Oceania.\n    ",
+        "annotate-prefix": "ok at where the refugees are coming from in 2007. ",
+        "annotate-suffix": "00:05:50 So the vast majority of these refugee see",
+        "annotate-colour": "DarkCyan"
+    }
+]

@@ -1,0 +1,13 @@
+[
+    {
+        "created": "20220224024033238",
+        "modified": "20220224024037733",
+        "title": "$:/plugins/tiddlywiki/dynannotate/demo-annotation 30",
+        "type": "text/vnd.tiddlywiki",
+        "annotate-tiddler": "Immigration: Refugees and Asylees",
+        "annotate-text": "An asylum seeker is a person seeking protected entrance to the United States. At the time of application, the person is located inside the United States or a port of entry. ",
+        "annotate-prefix": "r, they're considered an asylum seeker or asylee. ",
+        "annotate-suffix": "Again, a refugee is a person seeking protected ent",
+        "annotate-colour": "RoyalBlue"
+    }
+]
