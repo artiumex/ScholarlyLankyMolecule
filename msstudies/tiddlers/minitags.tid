@@ -1,0 +1,7 @@
+created: 20220306015843108
+modified: 20220306015934764
+tags: References
+title: minitags
+type: text/vnd.tiddlywiki
+
+<<tabs "[minitag{!!title}search{$:/temp/search}]" "" $:/state/tab>>

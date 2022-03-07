@@ -1,5 +1,8 @@
 created: 20220219050325159
-modified: 20220224013707703
+modified: 20220304021020971
 tags: References
 title: topictemplate
 type: text/vnd.tiddlywiki
+
+{{justSearch}}
+<<tabs "[tag{!!title}search{$:/temp/search}]" "" $:/state/tab>>
